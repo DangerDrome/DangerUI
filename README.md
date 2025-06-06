@@ -9,4 +9,8 @@ https://github.com/DangerDrome/DangerUI/releases/tag/Demo
 
 https://github.com/user-attachments/assets/ca3dd715-2d80-455c-b09d-11e4fc2dad97
 
+# In app Example
+Houdini
+
+![Animation](https://github.com/user-attachments/assets/17994dc4-18a0-4cb5-b15c-f12f65ca70a8)
 
