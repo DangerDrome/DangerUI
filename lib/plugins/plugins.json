@@ -1,0 +1,9 @@
+{
+    "plugins": [
+      {
+        "name": "example",
+        "module": "example_plugin_module",
+        "class": "ExamplePlugin"
+      }
+    ]
+}
