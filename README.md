@@ -5,6 +5,7 @@ Formally `Octotools`
 
 # An exe example
 The exe is avaialbe in the releases for testing
+https://github.com/DangerDrome/DangerUI/releases/tag/Demo
 
 https://github.com/user-attachments/assets/ca3dd715-2d80-455c-b09d-11e4fc2dad97
 
