@@ -1,11 +1,10 @@
 # DangerUI
-Formally `Octotools`
 
 ![image](https://github.com/user-attachments/assets/1fd98563-bbe6-4c79-9394-98cae43456f9)
 
 # Summary
 
-DangerUI (formerly known as OctoTools) is a modular desktop application framework built with Python and PySide2 (Qt for Python). It provides a flexible, dockable UI system designed for technical applications.
+DangerUI is a modular desktop application framework built with Python and PySide2 (Qt for Python). It provides a flexible, dockable UI system designed for technical applications.
 
 ## Key Features
 
